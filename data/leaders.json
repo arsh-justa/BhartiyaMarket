@@ -1,0 +1,17 @@
+
+[
+  {
+    "slug": "salil-parekh",
+    "name": "Salil Parekh",
+    "position": "CEO",
+    "company": "Infosys",
+    "bio": "Salil Parekh is the Chief Executive Officer and Managing Director of Infosys."
+  },
+  {
+    "slug": "rajesh-gopinathan",
+    "name": "Rajesh Gopinathan",
+    "position": "Former CEO",
+    "company": "TCS",
+    "bio": "Rajesh led TCS from 2017 to 2023, driving growth and transformation."
+  }
+]

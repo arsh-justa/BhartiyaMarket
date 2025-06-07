@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "infosys",
+    "name": "Infosys",
+    "description": "A global leader in consulting, technology, and next-generation services.",
+    "logo": "/logos/infosys.png",
+    "leaderSlug": "salil-parekh"
+  },
+  {
+    "slug": "tcs",
+    "name": "Tata Consultancy Services",
+    "description": "India's largest IT services company.",
+    "logo": "/logos/tcs.png",
+    "leaderSlug": "rajesh-gopinathan"
+  }
+]
