@@ -1,5 +1,5 @@
 // File: app/company/[slug]/page.tsx
-import { getCompanyBySlug } from '@/utils/getCompanyBySlug';
+import { getCompanyBySlug } from '@/utils/getCompany';
 import Link from 'next/link';
 
 export default function CompanyPage({ params }) {
