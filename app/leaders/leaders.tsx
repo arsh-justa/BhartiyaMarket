@@ -1,6 +1,6 @@
 
 // File: app/leader/[slug]/page.tsx
-import { getLeaderBySlug } from '@/utils/getLeaderBySlug';
+import { getLeaderBySlug } from '@/utils/getLeader';
 
 export default function LeaderPage({ params }) {
   const leader = getLeaderBySlug(params.slug);
