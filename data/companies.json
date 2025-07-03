@@ -12,5 +12,40 @@
     "description": "India's largest IT services company.",
     "logo": "/logos/tcs.png",
     "leaderSlug": "rajesh-gopinathan"
+  },
+  {
+    "slug": "wipro",
+    "name": "Wipro",
+    "description": "A leading global information technology, consulting, and business process services company.",
+    "logo": "/logos/wipro.png",
+    "leaderSlug": "thierry-delaporte"
+  },
+  {
+    "slug": "hcl-tech",
+    "name": "HCL Technologies",
+    "description": "A next-generation global technology company that helps enterprises reimagine their businesses for the digital age.",
+    "logo": "/logos/hcl-tech.png",
+    "leaderSlug": "c-v-kishore"
+  },
+  {
+    "slug": "tech-mahindra",
+    "name": "Tech Mahindra",
+    "description": "A leading provider of digital transformation, consulting, and business re-engineering services and solutions.",
+    "logo": "/logos/tech-mahindra.png",
+    "leaderSlug": "cp-gurnani"
+  },
+  {
+    "slug": "mindtree",
+    "name": "Mindtree",
+    "description": "A global technology consulting and services company, helping businesses to achieve their digital transformation goals.",
+    "logo": "/logos/mindtree.png",
+    "leaderSlug": "debashis-chatterjee"
+  },
+  {
+    "slug": "larsen-toubro-infotech",
+    "name": "Larsen & Toubro Infotech",
+    "description": "A global IT services and solutions provider, helping clients with their digital transformation journeys.",
+    "logo": "/logos/lti.png",
+    "leaderSlug": "keshab panda"
   }
 ]
